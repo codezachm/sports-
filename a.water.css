@@ -1,0 +1,24 @@
+#water{
+    color: aqua; 
+    background-color: blue;
+}
+
+#air{
+    color: azure;
+    background-color: blanchedalmond;
+}
+
+#earth{
+   color: brown;
+   background-color: green;
+}
+
+#fire{
+    color: red;
+    background-color: rgb(129, 8, 8);
+}
+
+#power{
+    color: orange;
+    background-color: gold;
+}

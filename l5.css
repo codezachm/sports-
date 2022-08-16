@@ -1,0 +1,59 @@
+body{
+    background-color: #DDDDDD
+}
+
+#ramen {
+    background-image: url(123.gif);
+    background-size: cover;
+}
+
+#sushi {
+    background-image: url(sushi.gif);
+    background-size: cover;
+}
+
+#bento {
+    background-image: url(bento.gif);
+    background-size: cover;
+}
+
+#curry {
+    background-image: url(curry.gif);
+    background-size: cover;
+}
+
+#dango {
+    background-image: url(dango.gif);
+    background-size: cover;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  li {
+    list-style-type: none;
+    float: left;
+  }
+  li a {
+    list-style-type: none;
+    display: block;
+    padding: 8px;
+    background-color: #DDDDDD;
+  }
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  li a:hover {
+    background-color: #111;
+  }
+
+
+
+
+
+
+
